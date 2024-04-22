@@ -1,4 +1,4 @@
-# updbd-server-teensy41
+# udpbd-server-teensy41
 Port of the PlayStation 2 [updbd-server](https://gitlab.com/ps2max/udpbd-server) to the [Teensy 4.1 microcontroller](https://www.pjrc.com/store/teensy41.html) that supports reading and writing from a FAT32/exFAT SD card or USB drive.
 
 ## Hardware
